@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:hint="@string/launch" />
+    //textView
 
 
 </android.support.constraint.ConstraintLayout>
