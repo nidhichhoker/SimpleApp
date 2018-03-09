@@ -9,6 +9,7 @@
     tools:context="com.shama.riyas.simpleapp.Main2Activity">
 
 
+
     <TextView
         android:id="@+id/text"
         android:layout_width="match_parent"
